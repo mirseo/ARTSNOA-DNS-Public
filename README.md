@@ -5,6 +5,9 @@
 ### Oauth
 Github : https://github.com/apps/makedns
 
+### License
+makeDNS : https://makedns.net/license
+
 ### 문의
 Email : mirseo@artsnoa.com  
 Site  : 미정
